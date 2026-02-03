@@ -1,0 +1,421 @@
+Emp_ID,Name,Year,Division,Location,Tenure,Performance_Rating,Salary_Band,Attrition,Attrition_Reason,Risk_Score,Status,New_Hire
+E1101,Lakshmi Menon,2020,IT,Kochi,10,1,High,Yes,Manager Issues,0.47,Left,No
+E1102,Divya Krishnan,2020,Operations,Chennai,4,4,Low,No,,0.56,Active,No
+E1103,Arjun Das,2020,Operations,Chennai,4,4,Low,No,,0.22,Active,No
+E1104,Karthik S,2020,IT,Kochi,2,3,High,No,,0.52,Active,No
+E1105,Divya Krishnan,2020,HR,Kochi,1,4,Medium,Yes,Health Reasons,0.92,Left,Yes
+E1106,Aarav Menon,2020,IT,Hyderabad,3,1,Medium,No,,0.62,Active,No
+E1107,Vikram Rao,2020,Operations,Chennai,0,4,Medium,Yes,Work-Life Balance,0.65,Left,Yes
+E1108,Vikram Rao,2020,Operations,Bangalore,6,5,High,No,,0.54,Active,No
+E1109,Divya Krishnan,2020,Operations,Kochi,0,1,High,No,,0.77,Active,Yes
+E1110,Pooja Singh,2020,Finance,Hyderabad,8,2,Low,No,,0.83,Active,No
+E1111,Aarav Menon,2020,Operations,Kochi,3,3,Low,Yes,Higher Studies,0.71,Left,No
+E1112,Ananya Pillai,2020,IT,Kochi,10,2,Low,No,,0.79,Active,No
+E1113,Swathi Rao,2020,Operations,Kochi,1,1,High,No,,0.61,Active,Yes
+E1114,Lakshmi Menon,2020,Operations,Bangalore,5,4,High,No,,0.85,Active,No
+E1115,Suresh Kumar,2020,HR,Chennai,2,4,Low,No,,0.16,Active,No
+E1116,Vikram Rao,2020,IT,Bangalore,1,2,Low,No,,0.26,Active,Yes
+E1117,Priya Varma,2020,Sales,Hyderabad,0,4,Medium,Yes,Better Compensation,0.64,Left,Yes
+E1118,Vikram Rao,2020,Sales,Bangalore,7,3,Medium,No,,0.64,Active,No
+E1119,Neha Joseph,2020,Finance,Kochi,2,2,Medium,Yes,Higher Studies,0.31,Left,No
+E1120,Swathi Rao,2020,Sales,Bangalore,9,2,High,No,,0.22,Active,No
+E1121,Rahul Iyer,2020,Sales,Bangalore,4,3,Medium,No,,0.82,Active,No
+E1122,Neha Joseph,2020,HR,Hyderabad,6,2,Medium,No,,0.2,Active,No
+E1123,Amit Verma,2020,Sales,Chennai,3,1,Low,No,,0.93,Active,No
+E1124,Sneha Reddy,2020,Operations,Kochi,1,4,High,No,,0.88,Active,Yes
+E1125,Swathi Rao,2020,HR,Chennai,5,3,Medium,Yes,Career Growth,0.22,Left,No
+E1126,Kavya Nair,2020,IT,Chennai,8,5,High,No,,0.24,Active,No
+E1127,Divya Krishnan,2020,Finance,Kochi,5,3,Low,No,,0.21,Active,No
+E1128,Swathi Rao,2020,HR,Hyderabad,2,5,Low,No,,0.44,Active,No
+E1129,Karthik S,2020,Finance,Hyderabad,8,4,Medium,No,,0.44,Active,No
+E1130,Neha Joseph,2020,Operations,Kochi,2,1,High,No,,0.65,Active,No
+E1131,Swathi Rao,2020,Sales,Chennai,7,3,Low,No,,0.93,Active,No
+E1132,Vikram Rao,2020,Sales,Hyderabad,8,5,Low,No,,0.12,Active,No
+E1133,Meera Nair,2020,HR,Chennai,4,5,Low,No,,0.62,Active,No
+E1134,Nikhil Jain,2020,Operations,Hyderabad,6,3,High,Yes,Better Compensation,0.49,Left,No
+E1135,Lakshmi Menon,2020,Sales,Kochi,5,4,Low,No,,0.44,Active,No
+E1136,Rahul Iyer,2020,HR,Kochi,6,4,High,No,,0.62,Active,No
+E1137,Divya Krishnan,2020,Sales,Chennai,8,4,Low,No,,0.56,Active,No
+E1138,Divya Krishnan,2020,IT,Kochi,0,3,Medium,Yes,Role Mismatch,0.68,Left,Yes
+E1139,Aarav Menon,2020,IT,Hyderabad,6,1,High,Yes,Health Reasons,0.23,Left,No
+E1140,Arjun Das,2020,HR,Hyderabad,10,2,Low,Yes,Relocation,0.27,Left,No
+E1141,Aarav Menon,2020,HR,Hyderabad,3,3,High,No,,0.78,Active,No
+E1142,Sneha Reddy,2020,HR,Hyderabad,9,2,Low,Yes,Role Mismatch,0.41,Left,No
+E1143,Aarav Menon,2020,Finance,Kochi,6,1,Low,Yes,Better Compensation,0.19,Left,No
+E1144,Manoj Pillai,2020,HR,Hyderabad,7,1,Low,No,,0.69,Active,No
+E1145,Ananya Pillai,2020,Finance,Bangalore,2,2,Low,Yes,Manager Issues,0.46,Left,No
+E1146,Nikhil Jain,2020,Operations,Kochi,1,2,Low,No,,0.16,Active,Yes
+E1147,Divya Krishnan,2020,Finance,Hyderabad,10,4,Low,Yes,Higher Studies,0.43,Left,No
+E1148,Lakshmi Menon,2020,Sales,Chennai,9,3,Low,No,,0.63,Active,No
+E1149,Meera Nair,2020,Operations,Bangalore,1,1,Medium,Yes,Health Reasons,0.63,Left,Yes
+E1150,Ananya Pillai,2020,Finance,Bangalore,6,5,High,No,,0.67,Active,No
+E1151,Arjun Das,2020,HR,Kochi,1,4,Low,No,,0.65,Active,Yes
+E1152,Amit Verma,2020,Operations,Kochi,0,2,High,Yes,Health Reasons,0.34,Left,Yes
+E1153,Aarav Menon,2020,IT,Hyderabad,5,3,Medium,No,,0.59,Active,No
+E1154,Lakshmi Menon,2020,Operations,Chennai,5,5,Low,No,,0.58,Active,No
+E1155,Manoj Pillai,2020,IT,Hyderabad,4,2,Medium,No,,0.66,Active,No
+E1156,Aarav Menon,2020,IT,Bangalore,0,2,Low,Yes,Career Growth,0.94,Left,Yes
+E1157,Rahul Iyer,2020,Finance,Chennai,4,3,Medium,Yes,Career Growth,0.17,Left,No
+E1158,Rahul Iyer,2020,Finance,Chennai,2,5,High,Yes,Work-Life Balance,0.35,Left,No
+E1159,Karthik S,2020,HR,Kochi,1,4,High,Yes,Higher Studies,0.64,Left,Yes
+E1160,Meera Nair,2020,Finance,Kochi,2,1,Medium,No,,0.56,Active,No
+E1161,Lakshmi Menon,2021,IT,Kochi,9,2,High,No,,0.37,Active,No
+E1162,Nikhil Jain,2021,Finance,Chennai,5,4,Medium,No,,0.14,Active,No
+E1163,Karthik S,2021,IT,Kochi,6,1,High,No,,0.89,Active,No
+E1164,Aarav Menon,2021,HR,Chennai,1,2,Medium,No,,0.43,Active,Yes
+E1165,Meera Nair,2021,IT,Hyderabad,10,2,Medium,No,,0.47,Active,No
+E1166,Swathi Rao,2021,Finance,Bangalore,10,1,High,No,,0.9,Active,No
+E1167,Neha Joseph,2021,HR,Kochi,0,5,Low,No,,0.43,Active,Yes
+E1168,Divya Krishnan,2021,HR,Kochi,2,4,Medium,No,,0.43,Active,No
+E1169,Rahul Iyer,2021,Operations,Chennai,6,2,High,No,,0.34,Active,No
+E1170,Rohit Sharma,2021,Sales,Bangalore,10,4,Medium,Yes,Role Mismatch,0.71,Left,No
+E1171,Neha Joseph,2021,Sales,Kochi,3,5,Medium,No,,0.93,Active,No
+E1172,Arjun Das,2021,Operations,Bangalore,7,4,Low,Yes,Higher Studies,0.94,Left,No
+E1173,Nikhil Jain,2021,IT,Hyderabad,4,5,Low,No,,0.48,Active,No
+E1174,Meera Nair,2021,IT,Hyderabad,7,2,Medium,Yes,Better Compensation,0.44,Left,No
+E1175,Ananya Pillai,2021,IT,Kochi,1,1,Medium,No,,0.78,Active,Yes
+E1176,Divya Krishnan,2021,Finance,Hyderabad,0,3,High,Yes,Manager Issues,0.44,Left,Yes
+E1177,Rahul Iyer,2021,IT,Bangalore,9,3,Medium,Yes,Relocation,0.58,Left,No
+E1178,Rohit Sharma,2021,HR,Chennai,10,5,High,Yes,Manager Issues,0.88,Left,No
+E1179,Aarav Menon,2021,IT,Bangalore,3,4,Low,No,,0.58,Active,No
+E1180,Karthik S,2021,Operations,Hyderabad,0,5,Medium,No,,0.35,Active,Yes
+E1181,Aarav Menon,2021,Finance,Kochi,4,2,Medium,No,,0.75,Active,No
+E1182,Ananya Pillai,2021,HR,Hyderabad,7,4,Low,No,,0.78,Active,No
+E1183,Manoj Pillai,2021,HR,Kochi,6,5,High,Yes,Better Compensation,0.49,Left,No
+E1184,Karthik S,2021,Sales,Kochi,10,3,Low,Yes,Work-Life Balance,0.77,Left,No
+E1185,Divya Krishnan,2021,Sales,Bangalore,6,1,Low,No,,0.41,Active,No
+E1186,Meera Nair,2021,Operations,Hyderabad,2,1,High,No,,0.84,Active,Yes
+E1187,Priya Varma,2021,Finance,Kochi,10,4,Medium,Yes,Career Growth,0.74,Left,No
+E1188,Aarav Menon,2021,Sales,Bangalore,10,2,Low,No,,0.41,Active,No
+E1189,Ananya Pillai,2021,Finance,Chennai,4,5,Medium,No,,0.69,Active,No
+E1190,Sneha Reddy,2021,Sales,Hyderabad,10,5,Medium,No,,0.52,Active,No
+E1191,Meera Nair,2021,IT,Bangalore,9,1,Medium,No,,0.48,Active,No
+E1192,Rahul Iyer,2021,Finance,Hyderabad,7,3,Medium,No,,0.39,Active,No
+E1193,Ananya Pillai,2021,HR,Bangalore,8,1,Low,No,,0.92,Active,No
+E1194,Rahul Iyer,2021,IT,Kochi,8,1,High,No,,0.87,Active,No
+E1195,Amit Verma,2021,HR,Bangalore,7,5,Medium,No,,0.53,Active,No
+E1196,Rohit Sharma,2021,Operations,Bangalore,7,1,High,No,,0.26,Active,No
+E1197,Meera Nair,2021,Operations,Chennai,3,4,Medium,Yes,Health Reasons,0.26,Left,No
+E1198,Divya Krishnan,2021,Finance,Chennai,0,3,Low,No,,0.54,Active,Yes
+E1199,Suresh Kumar,2021,Sales,Bangalore,5,3,Medium,No,,0.28,Active,No
+E1200,Suresh Kumar,2021,IT,Hyderabad,9,3,Medium,No,,0.31,Active,No
+E1201,Karthik S,2021,Operations,Hyderabad,1,3,High,No,,0.57,Active,Yes
+E1202,Priya Varma,2021,Sales,Bangalore,9,5,Medium,No,,0.72,Active,No
+E1203,Kavya Nair,2021,HR,Kochi,2,5,Low,No,,0.44,Active,No
+E1204,Aarav Menon,2021,Finance,Kochi,9,4,Medium,Yes,Better Compensation,0.41,Left,No
+E1205,Divya Krishnan,2021,Sales,Chennai,2,5,High,No,,0.3,Active,Yes
+E1206,Amit Verma,2021,Finance,Chennai,2,1,Medium,No,,0.58,Active,No
+E1207,Arjun Das,2021,Operations,Bangalore,10,3,Medium,No,,0.14,Active,No
+E1208,Kavya Nair,2021,Finance,Bangalore,6,3,High,No,,0.11,Active,No
+E1209,Kavya Nair,2021,Sales,Bangalore,8,5,Low,Yes,Manager Issues,0.62,Left,No
+E1210,Kavya Nair,2021,Operations,Bangalore,2,5,Medium,No,,0.6,Active,No
+E1211,Priya Varma,2021,HR,Bangalore,5,3,Low,No,,0.77,Active,No
+E1212,Lakshmi Menon,2021,Operations,Bangalore,5,5,Medium,No,,0.21,Active,No
+E1213,Divya Krishnan,2021,HR,Hyderabad,10,4,High,No,,0.42,Active,No
+E1214,Divya Krishnan,2021,Sales,Bangalore,1,2,High,Yes,Relocation,0.82,Left,Yes
+E1215,Pooja Singh,2021,HR,Hyderabad,2,5,High,No,,0.25,Active,No
+E1216,Ananya Pillai,2021,Operations,Kochi,9,2,Low,No,,0.41,Active,No
+E1217,Karthik S,2021,Sales,Hyderabad,7,2,Medium,No,,0.57,Active,No
+E1218,Rahul Iyer,2021,Finance,Hyderabad,4,4,Medium,No,,0.81,Active,No
+E1219,Rohit Sharma,2021,Operations,Kochi,4,5,Medium,Yes,Health Reasons,0.66,Left,No
+E1220,Kavya Nair,2021,Operations,Chennai,8,4,Low,No,,0.7,Active,No
+E1221,Divya Krishnan,2022,Operations,Kochi,5,1,High,No,,0.34,Active,No
+E1222,Kavya Nair,2022,Sales,Bangalore,10,5,Low,Yes,Role Mismatch,0.71,Left,No
+E1223,Swathi Rao,2022,Finance,Kochi,0,1,High,Yes,Career Growth,0.38,Left,Yes
+E1224,Pooja Singh,2022,HR,Hyderabad,3,1,Medium,Yes,Health Reasons,0.44,Left,No
+E1225,Arjun Das,2022,Finance,Bangalore,0,5,High,No,,0.69,Active,Yes
+E1226,Pooja Singh,2022,HR,Kochi,2,2,Medium,No,,0.18,Active,Yes
+E1227,Swathi Rao,2022,HR,Hyderabad,7,1,High,No,,0.39,Active,No
+E1228,Aarav Menon,2022,IT,Chennai,2,1,Medium,Yes,Role Mismatch,0.63,Left,No
+E1229,Arjun Das,2022,HR,Bangalore,8,4,High,Yes,Higher Studies,0.8,Left,No
+E1230,Priya Varma,2022,IT,Bangalore,5,5,High,No,,0.84,Active,No
+E1231,Divya Krishnan,2022,Sales,Bangalore,7,2,Low,No,,0.31,Active,No
+E1232,Kavya Nair,2022,Finance,Kochi,7,4,High,No,,0.49,Active,No
+E1233,Karthik S,2022,Operations,Hyderabad,0,2,High,No,,0.23,Active,Yes
+E1234,Aarav Menon,2022,Finance,Kochi,10,2,High,No,,0.13,Active,No
+E1235,Priya Varma,2022,Finance,Chennai,3,5,High,No,,0.83,Active,No
+E1236,Kavya Nair,2022,HR,Chennai,2,2,Low,No,,0.79,Active,No
+E1237,Vikram Rao,2022,Sales,Kochi,10,3,Low,No,,0.71,Active,No
+E1238,Karthik S,2022,Finance,Kochi,1,1,High,No,,0.16,Active,Yes
+E1239,Nikhil Jain,2022,Operations,Kochi,10,5,Low,No,,0.6,Active,No
+E1240,Manoj Pillai,2022,Sales,Kochi,6,3,Low,No,,0.91,Active,No
+E1241,Amit Verma,2022,IT,Chennai,0,5,Medium,No,,0.12,Active,Yes
+E1242,Manoj Pillai,2022,Sales,Chennai,7,2,Low,No,,0.4,Active,No
+E1243,Suresh Kumar,2022,Finance,Chennai,1,1,Medium,Yes,Higher Studies,0.69,Left,Yes
+E1244,Nikhil Jain,2022,Finance,Hyderabad,7,4,Low,No,,0.72,Active,No
+E1245,Neha Joseph,2022,IT,Kochi,5,4,High,No,,0.88,Active,No
+E1246,Arjun Das,2022,IT,Hyderabad,0,5,Low,Yes,Manager Issues,0.2,Left,Yes
+E1247,Rahul Iyer,2022,IT,Bangalore,2,2,Medium,No,,0.83,Active,No
+E1248,Divya Krishnan,2022,Finance,Hyderabad,6,5,Low,Yes,Role Mismatch,0.33,Left,No
+E1249,Ananya Pillai,2022,Sales,Bangalore,10,2,Low,No,,0.15,Active,No
+E1250,Pooja Singh,2022,Sales,Bangalore,2,2,Low,No,,0.69,Active,No
+E1251,Sneha Reddy,2022,HR,Kochi,0,5,Low,Yes,Higher Studies,0.31,Left,Yes
+E1252,Vikram Rao,2022,Sales,Chennai,6,3,High,No,,0.5,Active,No
+E1253,Rohit Sharma,2022,HR,Chennai,7,2,Medium,No,,0.66,Active,No
+E1254,Nikhil Jain,2022,Operations,Bangalore,6,1,High,No,,0.81,Active,No
+E1255,Manoj Pillai,2022,Operations,Chennai,10,4,High,No,,0.58,Active,No
+E1256,Karthik S,2022,Operations,Hyderabad,9,2,High,No,,0.23,Active,No
+E1257,Swathi Rao,2022,Finance,Bangalore,7,5,High,Yes,Manager Issues,0.38,Left,No
+E1258,Priya Varma,2022,Operations,Kochi,5,4,High,Yes,Role Mismatch,0.29,Left,No
+E1259,Manoj Pillai,2022,Sales,Bangalore,9,5,Medium,No,,0.38,Active,No
+E1260,Sneha Reddy,2022,HR,Kochi,9,1,Low,No,,0.63,Active,No
+E1261,Nikhil Jain,2022,IT,Kochi,4,2,Medium,No,,0.61,Active,No
+E1262,Rahul Iyer,2022,Operations,Hyderabad,6,5,High,No,,0.91,Active,No
+E1263,Meera Nair,2022,HR,Kochi,3,5,Low,No,,0.23,Active,No
+E1264,Ananya Pillai,2022,Finance,Chennai,4,5,Medium,No,,0.19,Active,No
+E1265,Pooja Singh,2022,Sales,Hyderabad,10,4,Medium,No,,0.76,Active,No
+E1266,Neha Joseph,2022,IT,Kochi,0,5,Low,Yes,Work-Life Balance,0.55,Left,Yes
+E1267,Ananya Pillai,2022,HR,Hyderabad,10,2,Low,No,,0.41,Active,No
+E1268,Suresh Kumar,2022,HR,Chennai,0,4,Low,No,,0.88,Active,Yes
+E1269,Swathi Rao,2022,Finance,Chennai,4,2,High,No,,0.56,Active,No
+E1270,Karthik S,2022,Finance,Hyderabad,6,1,Low,No,,0.63,Active,No
+E1271,Divya Krishnan,2022,Operations,Chennai,4,1,Medium,No,,0.36,Active,No
+E1272,Aarav Menon,2022,Sales,Chennai,6,4,Medium,No,,0.35,Active,No
+E1273,Divya Krishnan,2022,Sales,Chennai,6,3,Medium,Yes,Relocation,0.59,Left,No
+E1274,Rahul Iyer,2022,Finance,Kochi,0,1,High,No,,0.57,Active,Yes
+E1275,Karthik S,2022,Operations,Hyderabad,7,3,Medium,No,,0.68,Active,No
+E1276,Arjun Das,2022,HR,Bangalore,2,4,Medium,No,,0.9,Active,No
+E1277,Rohit Sharma,2022,IT,Bangalore,3,3,Medium,No,,0.95,Active,No
+E1278,Suresh Kumar,2022,IT,Hyderabad,7,2,High,Yes,Manager Issues,0.74,Left,No
+E1279,Sneha Reddy,2022,Operations,Bangalore,5,2,High,No,,0.31,Active,No
+E1280,Lakshmi Menon,2022,Operations,Kochi,0,1,Low,Yes,Higher Studies,0.52,Left,Yes
+E1281,Aarav Menon,2023,IT,Kochi,10,4,Medium,No,,0.38,Active,No
+E1282,Vikram Rao,2023,Finance,Kochi,7,2,High,No,,0.88,Active,No
+E1283,Manoj Pillai,2023,Sales,Hyderabad,4,1,High,No,,0.8,Active,No
+E1284,Karthik S,2023,Sales,Chennai,5,5,Medium,No,,0.26,Active,No
+E1285,Manoj Pillai,2023,Sales,Chennai,7,2,Medium,No,,0.66,Active,No
+E1286,Aarav Menon,2023,Operations,Hyderabad,8,2,Low,Yes,Better Compensation,0.3,Left,No
+E1287,Amit Verma,2023,Sales,Hyderabad,7,3,Low,Yes,Career Growth,0.78,Left,No
+E1288,Lakshmi Menon,2023,Finance,Hyderabad,2,1,Medium,Yes,Relocation,0.85,Left,No
+E1289,Pooja Singh,2023,Operations,Hyderabad,3,4,High,Yes,Work-Life Balance,0.74,Left,No
+E1290,Nikhil Jain,2023,HR,Kochi,1,2,Medium,No,,0.42,Active,Yes
+E1291,Divya Krishnan,2023,HR,Kochi,1,3,Medium,No,,0.68,Active,Yes
+E1292,Karthik S,2023,IT,Hyderabad,6,5,Low,No,,0.2,Active,No
+E1293,Nikhil Jain,2023,Finance,Kochi,7,5,Medium,No,,0.77,Active,No
+E1294,Manoj Pillai,2023,Finance,Kochi,9,5,High,No,,0.75,Active,No
+E1295,Aarav Menon,2023,Sales,Hyderabad,9,5,High,No,,0.33,Active,No
+E1296,Divya Krishnan,2023,Sales,Chennai,5,3,Low,Yes,Manager Issues,0.89,Left,No
+E1297,Pooja Singh,2023,Sales,Bangalore,6,3,Medium,No,,0.66,Active,No
+E1298,Divya Krishnan,2023,IT,Chennai,8,1,Low,No,,0.5,Active,No
+E1299,Ananya Pillai,2023,HR,Kochi,1,4,Low,No,,0.6,Active,Yes
+E1300,Pooja Singh,2023,IT,Hyderabad,4,1,Low,No,,0.9,Active,No
+E1301,Neha Joseph,2023,Sales,Bangalore,9,1,Medium,No,,0.43,Active,No
+E1302,Aarav Menon,2023,IT,Chennai,7,5,Low,No,,0.63,Active,No
+E1303,Vikram Rao,2023,HR,Bangalore,0,5,Medium,No,,0.49,Active,Yes
+E1304,Amit Verma,2023,Finance,Chennai,0,5,High,No,,0.13,Active,Yes
+E1305,Neha Joseph,2023,IT,Bangalore,3,3,Medium,No,,0.85,Active,No
+E1306,Nikhil Jain,2023,Operations,Kochi,10,4,Medium,No,,0.7,Active,No
+E1307,Sneha Reddy,2023,HR,Bangalore,9,5,Medium,Yes,Role Mismatch,0.6,Left,No
+E1308,Sneha Reddy,2023,IT,Hyderabad,3,3,Medium,No,,0.93,Active,No
+E1309,Suresh Kumar,2023,Operations,Hyderabad,1,2,High,No,,0.93,Active,Yes
+E1310,Rahul Iyer,2023,Sales,Chennai,7,1,Low,No,,0.18,Active,No
+E1311,Priya Varma,2023,HR,Chennai,6,2,High,Yes,Health Reasons,0.52,Left,No
+E1312,Rahul Iyer,2023,HR,Bangalore,2,4,Low,No,,0.77,Active,No
+E1313,Suresh Kumar,2023,Operations,Bangalore,9,4,Low,Yes,Role Mismatch,0.51,Left,No
+E1314,Aarav Menon,2023,Operations,Chennai,8,5,Medium,No,,0.89,Active,No
+E1315,Pooja Singh,2023,Operations,Kochi,5,3,Medium,Yes,Work-Life Balance,0.9,Left,No
+E1316,Sneha Reddy,2023,Finance,Hyderabad,6,3,High,No,,0.65,Active,No
+E1317,Neha Joseph,2023,Sales,Kochi,8,4,Medium,No,,0.17,Active,No
+E1318,Arjun Das,2023,IT,Hyderabad,0,5,Low,No,,0.39,Active,Yes
+E1319,Aarav Menon,2023,IT,Hyderabad,1,4,Medium,No,,0.52,Active,Yes
+E1320,Amit Verma,2023,HR,Kochi,9,1,Medium,Yes,Career Growth,0.58,Left,No
+E1321,Amit Verma,2023,Sales,Hyderabad,9,3,Low,No,,0.47,Active,No
+E1322,Lakshmi Menon,2023,IT,Bangalore,4,2,Medium,Yes,Relocation,0.36,Left,No
+E1323,Rahul Iyer,2023,Sales,Chennai,1,3,Low,No,,0.5,Active,Yes
+E1324,Vikram Rao,2023,Sales,Hyderabad,8,5,Low,Yes,Higher Studies,0.2,Left,No
+E1325,Rahul Iyer,2023,Sales,Hyderabad,3,1,Medium,No,,0.68,Active,No
+E1326,Rohit Sharma,2023,Sales,Hyderabad,7,5,Medium,No,,0.37,Active,No
+E1327,Meera Nair,2023,Finance,Bangalore,10,2,Medium,No,,0.75,Active,No
+E1328,Vikram Rao,2023,Operations,Chennai,0,5,High,No,,0.47,Active,Yes
+E1329,Manoj Pillai,2023,Finance,Hyderabad,1,5,Low,Yes,Better Compensation,0.73,Left,Yes
+E1330,Lakshmi Menon,2023,Operations,Hyderabad,7,4,High,No,,0.55,Active,No
+E1331,Kavya Nair,2023,Operations,Chennai,4,3,Low,Yes,Role Mismatch,0.67,Left,No
+E1332,Lakshmi Menon,2023,IT,Hyderabad,3,4,Low,Yes,Work-Life Balance,0.35,Left,No
+E1333,Nikhil Jain,2023,Finance,Hyderabad,8,2,Medium,Yes,Relocation,0.11,Left,No
+E1334,Lakshmi Menon,2023,Operations,Hyderabad,4,5,High,No,,0.27,Active,No
+E1335,Divya Krishnan,2023,Operations,Hyderabad,6,5,Low,Yes,Manager Issues,0.65,Left,No
+E1336,Vikram Rao,2023,HR,Hyderabad,8,2,Medium,Yes,Health Reasons,0.73,Left,No
+E1337,Vikram Rao,2023,Finance,Chennai,7,2,Low,No,,0.89,Active,No
+E1338,Aarav Menon,2023,IT,Hyderabad,3,2,Medium,No,,0.21,Active,No
+E1339,Aarav Menon,2023,Sales,Bangalore,0,3,Low,No,,0.32,Active,Yes
+E1340,Swathi Rao,2023,Sales,Hyderabad,1,3,High,Yes,Higher Studies,0.61,Left,Yes
+E1341,Nikhil Jain,2024,Operations,Hyderabad,4,5,Low,No,,0.45,Active,No
+E1342,Amit Verma,2024,IT,Chennai,3,4,Low,Yes,Health Reasons,0.37,Left,No
+E1343,Meera Nair,2024,Finance,Bangalore,4,5,Low,No,,0.58,Active,No
+E1344,Priya Varma,2024,IT,Hyderabad,7,1,High,No,,0.36,Active,No
+E1345,Kavya Nair,2024,IT,Bangalore,8,1,Low,No,,0.47,Active,No
+E1346,Manoj Pillai,2024,Operations,Kochi,0,5,Medium,No,,0.52,Active,Yes
+E1347,Vikram Rao,2024,Operations,Hyderabad,1,3,Medium,No,,0.17,Active,Yes
+E1348,Arjun Das,2024,Sales,Hyderabad,7,3,Low,No,,0.2,Active,No
+E1349,Neha Joseph,2024,HR,Bangalore,2,3,Medium,No,,0.32,Active,No
+E1350,Kavya Nair,2024,Finance,Kochi,7,1,Medium,Yes,Career Growth,0.83,Left,No
+E1351,Nikhil Jain,2024,HR,Bangalore,8,4,Low,No,,0.63,Active,No
+E1352,Arjun Das,2024,Finance,Bangalore,8,1,Medium,Yes,Manager Issues,0.75,Left,No
+E1353,Nikhil Jain,2024,Sales,Chennai,2,1,High,Yes,Career Growth,0.37,Left,No
+E1354,Nikhil Jain,2024,Sales,Bangalore,6,2,High,Yes,Better Compensation,0.13,Left,No
+E1355,Aarav Menon,2024,Finance,Chennai,5,2,High,No,,0.45,Active,No
+E1356,Priya Varma,2024,Finance,Kochi,0,3,Medium,Yes,Health Reasons,0.39,Left,Yes
+E1357,Pooja Singh,2024,Operations,Hyderabad,5,3,High,Yes,Health Reasons,0.77,Left,No
+E1358,Priya Varma,2024,Sales,Bangalore,9,5,Medium,Yes,Health Reasons,0.46,Left,No
+E1359,Swathi Rao,2024,Sales,Chennai,1,4,High,Yes,Manager Issues,0.74,Left,Yes
+E1360,Rahul Iyer,2024,IT,Hyderabad,0,3,Medium,No,,0.82,Active,Yes
+E1361,Rohit Sharma,2024,IT,Chennai,9,4,High,Yes,Role Mismatch,0.58,Left,No
+E1362,Arjun Das,2024,HR,Hyderabad,9,2,Medium,No,,0.18,Active,No
+E1363,Arjun Das,2024,HR,Bangalore,4,1,Low,Yes,Role Mismatch,0.61,Left,No
+E1364,Amit Verma,2024,Sales,Hyderabad,3,3,Low,No,,0.22,Active,No
+E1365,Neha Joseph,2024,Finance,Kochi,8,1,Low,No,,0.15,Active,No
+E1366,Kavya Nair,2024,Operations,Hyderabad,5,4,Medium,No,,0.63,Active,No
+E1367,Manoj Pillai,2024,Finance,Bangalore,10,5,Medium,No,,0.79,Active,No
+E1368,Divya Krishnan,2024,IT,Bangalore,5,2,Medium,No,,0.87,Active,No
+E1369,Ananya Pillai,2024,Sales,Bangalore,3,2,Low,No,,0.38,Active,No
+E1370,Neha Joseph,2024,IT,Hyderabad,8,3,Medium,No,,0.31,Active,No
+E1371,Karthik S,2024,Finance,Kochi,6,3,Low,No,,0.34,Active,No
+E1372,Nikhil Jain,2024,Operations,Hyderabad,6,2,Medium,No,,0.68,Active,No
+E1373,Neha Joseph,2024,Finance,Kochi,6,2,High,No,,0.35,Active,No
+E1374,Kavya Nair,2024,Sales,Kochi,6,1,Medium,Yes,Higher Studies,0.72,Left,No
+E1375,Priya Varma,2024,Sales,Hyderabad,5,1,High,Yes,Career Growth,0.89,Left,No
+E1376,Rohit Sharma,2024,HR,Kochi,8,3,Medium,Yes,Relocation,0.8,Left,No
+E1377,Karthik S,2024,Sales,Hyderabad,3,4,Medium,No,,0.93,Active,No
+E1378,Vikram Rao,2024,Sales,Chennai,2,2,Low,No,,0.59,Active,Yes
+E1379,Neha Joseph,2024,IT,Bangalore,1,4,Low,Yes,Manager Issues,0.49,Left,Yes
+E1380,Meera Nair,2024,Sales,Kochi,10,1,High,No,,0.83,Active,No
+E1381,Sneha Reddy,2024,Finance,Hyderabad,0,2,Low,No,,0.8,Active,Yes
+E1382,Meera Nair,2024,IT,Kochi,5,1,Low,Yes,Manager Issues,0.5,Left,No
+E1383,Aarav Menon,2024,IT,Bangalore,2,1,Low,No,,0.9,Active,Yes
+E1384,Arjun Das,2024,Operations,Kochi,3,4,High,No,,0.71,Active,No
+E1385,Rohit Sharma,2024,Sales,Hyderabad,9,5,High,No,,0.35,Active,No
+E1386,Meera Nair,2024,Finance,Chennai,5,2,Low,No,,0.7,Active,No
+E1387,Nikhil Jain,2024,IT,Hyderabad,4,5,Medium,No,,0.69,Active,No
+E1388,Swathi Rao,2024,HR,Kochi,2,4,Medium,Yes,Better Compensation,0.88,Left,Yes
+E1389,Sneha Reddy,2024,Operations,Bangalore,10,3,Low,No,,0.48,Active,No
+E1390,Ananya Pillai,2024,IT,Hyderabad,9,2,Low,No,,0.17,Active,No
+E1391,Meera Nair,2024,Finance,Chennai,8,1,Low,Yes,Higher Studies,0.69,Left,No
+E1392,Kavya Nair,2024,IT,Chennai,7,1,High,Yes,Relocation,0.64,Left,No
+E1393,Rahul Iyer,2024,Sales,Chennai,3,1,High,No,,0.39,Active,No
+E1394,Divya Krishnan,2024,HR,Hyderabad,8,3,Medium,Yes,Manager Issues,0.5,Left,No
+E1395,Karthik S,2024,Operations,Bangalore,10,1,Medium,Yes,Role Mismatch,0.13,Left,No
+E1396,Manoj Pillai,2024,Operations,Bangalore,0,4,Low,No,,0.36,Active,Yes
+E1397,Divya Krishnan,2024,Sales,Bangalore,2,1,Low,Yes,Role Mismatch,0.88,Left,Yes
+E1398,Karthik S,2024,HR,Chennai,7,5,High,Yes,Health Reasons,0.14,Left,No
+E1399,Meera Nair,2024,IT,Bangalore,4,4,High,Yes,Manager Issues,0.53,Left,No
+E1400,Pooja Singh,2024,IT,Kochi,0,4,Medium,No,,0.25,Active,Yes
+E1401,Manoj Pillai,2025,IT,Chennai,10,3,Medium,Yes,Work-Life Balance,0.52,Left,No
+E1402,Meera Nair,2025,Finance,Kochi,3,3,Medium,No,,0.52,Active,No
+E1403,Pooja Singh,2025,Operations,Chennai,4,1,Medium,No,,0.59,Active,No
+E1404,Swathi Rao,2025,HR,Kochi,6,5,Medium,No,,0.9,Active,No
+E1405,Amit Verma,2025,Sales,Chennai,8,5,Medium,No,,0.34,Active,No
+E1406,Aarav Menon,2025,IT,Bangalore,8,5,Medium,No,,0.59,Active,No
+E1407,Neha Joseph,2025,Operations,Kochi,7,4,Low,No,,0.58,Active,No
+E1408,Rahul Iyer,2025,HR,Hyderabad,5,1,Low,Yes,Manager Issues,0.58,Left,No
+E1409,Sneha Reddy,2025,Sales,Chennai,8,4,Medium,No,,0.91,Active,No
+E1410,Amit Verma,2025,Finance,Kochi,7,3,Low,No,,0.21,Active,No
+E1411,Rohit Sharma,2025,Sales,Kochi,4,1,Medium,No,,0.59,Active,No
+E1412,Sneha Reddy,2025,HR,Kochi,0,1,Medium,No,,0.25,Active,Yes
+E1413,Manoj Pillai,2025,IT,Chennai,9,5,Medium,No,,0.51,Active,No
+E1414,Ananya Pillai,2025,Operations,Chennai,0,4,Medium,No,,0.52,Active,Yes
+E1415,Swathi Rao,2025,HR,Kochi,7,1,Medium,No,,0.95,Active,No
+E1416,Lakshmi Menon,2025,IT,Chennai,0,1,Medium,Yes,Health Reasons,0.29,Left,Yes
+E1417,Suresh Kumar,2025,IT,Kochi,1,2,High,No,,0.82,Active,Yes
+E1418,Kavya Nair,2025,Operations,Chennai,9,1,Medium,No,,0.69,Active,No
+E1419,Aarav Menon,2025,Finance,Hyderabad,0,3,Low,Yes,Work-Life Balance,0.51,Left,Yes
+E1420,Rohit Sharma,2025,Sales,Chennai,10,3,Medium,No,,0.67,Active,No
+E1421,Sneha Reddy,2025,HR,Chennai,9,4,Low,Yes,Health Reasons,0.67,Left,No
+E1422,Amit Verma,2025,HR,Hyderabad,0,4,Medium,No,,0.9,Active,Yes
+E1423,Lakshmi Menon,2025,IT,Hyderabad,1,4,Medium,No,,0.41,Active,Yes
+E1424,Nikhil Jain,2025,Sales,Chennai,2,2,Medium,No,,0.39,Active,No
+E1425,Manoj Pillai,2025,Finance,Hyderabad,10,1,Medium,No,,0.18,Active,No
+E1426,Karthik S,2025,Finance,Hyderabad,1,1,Medium,No,,0.91,Active,Yes
+E1427,Kavya Nair,2025,Finance,Kochi,0,3,Low,No,,0.32,Active,Yes
+E1428,Ananya Pillai,2025,Finance,Hyderabad,5,1,Medium,No,,0.86,Active,No
+E1429,Rahul Iyer,2025,Sales,Bangalore,6,1,Low,No,,0.73,Active,No
+E1430,Swathi Rao,2025,Finance,Kochi,8,3,Medium,No,,0.41,Active,No
+E1431,Suresh Kumar,2025,Finance,Chennai,6,3,Medium,No,,0.44,Active,No
+E1432,Karthik S,2025,Finance,Bangalore,3,5,High,Yes,Health Reasons,0.43,Left,No
+E1433,Ananya Pillai,2025,Finance,Hyderabad,1,1,High,No,,0.23,Active,Yes
+E1434,Rohit Sharma,2025,HR,Kochi,3,5,High,No,,0.59,Active,No
+E1435,Nikhil Jain,2025,Operations,Hyderabad,4,5,Low,No,,0.3,Active,No
+E1436,Divya Krishnan,2025,IT,Hyderabad,1,5,Medium,Yes,Better Compensation,0.66,Left,Yes
+E1437,Karthik S,2025,HR,Bangalore,6,3,Medium,Yes,Relocation,0.75,Left,No
+E1438,Nikhil Jain,2025,Operations,Hyderabad,2,3,Medium,No,,0.68,Active,Yes
+E1439,Neha Joseph,2025,Operations,Bangalore,4,2,Low,No,,0.18,Active,No
+E1440,Suresh Kumar,2025,HR,Bangalore,8,2,High,No,,0.15,Active,No
+E1441,Amit Verma,2025,Sales,Hyderabad,1,1,Medium,Yes,Manager Issues,0.17,Left,Yes
+E1442,Priya Varma,2025,Operations,Bangalore,8,5,High,No,,0.77,Active,No
+E1443,Suresh Kumar,2025,Sales,Kochi,1,2,High,No,,0.71,Active,Yes
+E1444,Sneha Reddy,2025,Finance,Chennai,1,3,Medium,No,,0.3,Active,Yes
+E1445,Sneha Reddy,2025,IT,Chennai,10,5,Low,Yes,Role Mismatch,0.16,Left,No
+E1446,Neha Joseph,2025,IT,Bangalore,9,3,Low,No,,0.31,Active,No
+E1447,Arjun Das,2025,HR,Hyderabad,3,5,High,Yes,Better Compensation,0.45,Left,No
+E1448,Sneha Reddy,2025,HR,Kochi,4,4,Medium,No,,0.35,Active,No
+E1449,Arjun Das,2025,IT,Bangalore,8,3,Low,Yes,Better Compensation,0.2,Left,No
+E1450,Divya Krishnan,2025,Finance,Kochi,4,1,Medium,Yes,Higher Studies,0.25,Left,No
+E1451,Pooja Singh,2025,Operations,Hyderabad,6,4,High,No,,0.57,Active,No
+E1452,Divya Krishnan,2025,Operations,Chennai,1,2,Medium,No,,0.71,Active,Yes
+E1453,Sneha Reddy,2025,Operations,Bangalore,0,2,Medium,No,,0.47,Active,Yes
+E1454,Rahul Iyer,2025,HR,Hyderabad,9,5,Medium,Yes,Manager Issues,0.36,Left,No
+E1455,Lakshmi Menon,2025,IT,Hyderabad,0,3,Medium,No,,0.53,Active,Yes
+E1456,Arjun Das,2025,Finance,Chennai,5,4,High,No,,0.25,Active,No
+E1457,Arjun Das,2025,HR,Kochi,2,1,Medium,Yes,Relocation,0.46,Left,No
+E1458,Manoj Pillai,2025,Finance,Kochi,4,1,Medium,No,,0.33,Active,No
+E1459,Lakshmi Menon,2025,Sales,Kochi,9,3,Medium,Yes,Manager Issues,0.63,Left,No
+E1460,Suresh Kumar,2025,Sales,Kochi,3,5,Low,No,,0.3,Active,No
+E1461,Arjun Das,2026,Finance,Kochi,4,4,Low,No,,0.17,Active,No
+E1462,Aarav Menon,2026,Finance,Hyderabad,3,3,Medium,No,,0.26,Active,No
+E1463,Rohit Sharma,2026,Operations,Chennai,0,4,Medium,No,,0.17,Active,Yes
+E1464,Rahul Iyer,2026,Finance,Bangalore,10,5,High,Yes,Relocation,0.61,Left,No
+E1465,Sneha Reddy,2026,Sales,Kochi,9,1,Medium,No,,0.72,Active,No
+E1466,Nikhil Jain,2026,Operations,Hyderabad,7,2,Medium,Yes,Higher Studies,0.34,Left,No
+E1467,Rahul Iyer,2026,Finance,Bangalore,8,2,Medium,No,,0.88,Active,No
+E1468,Rahul Iyer,2026,Finance,Bangalore,5,4,High,Yes,Health Reasons,0.12,Left,No
+E1469,Arjun Das,2026,Sales,Kochi,3,4,Low,No,,0.3,Active,No
+E1470,Aarav Menon,2026,Sales,Bangalore,8,2,Medium,Yes,Relocation,0.9,Left,No
+E1471,Lakshmi Menon,2026,Sales,Kochi,5,4,High,No,,0.57,Active,No
+E1472,Rohit Sharma,2026,HR,Hyderabad,3,4,High,No,,0.46,Active,No
+E1473,Arjun Das,2026,Finance,Hyderabad,4,3,Low,No,,0.22,Active,No
+E1474,Rahul Iyer,2026,Operations,Bangalore,8,2,Low,Yes,Relocation,0.33,Left,No
+E1475,Sneha Reddy,2026,IT,Chennai,1,2,Low,Yes,Better Compensation,0.21,Left,Yes
+E1476,Neha Joseph,2026,Finance,Chennai,9,5,Low,No,,0.92,Active,No
+E1477,Aarav Menon,2026,IT,Hyderabad,9,1,Low,Yes,Work-Life Balance,0.51,Left,No
+E1478,Suresh Kumar,2026,Operations,Bangalore,3,4,Medium,Yes,Work-Life Balance,0.59,Left,No
+E1479,Suresh Kumar,2026,IT,Kochi,0,3,Low,No,,0.54,Active,Yes
+E1480,Neha Joseph,2026,IT,Hyderabad,9,5,Low,No,,0.35,Active,No
+E1481,Neha Joseph,2026,Operations,Kochi,0,3,Medium,Yes,Role Mismatch,0.93,Left,Yes
+E1482,Amit Verma,2026,Sales,Bangalore,8,1,Medium,No,,0.56,Active,No
+E1483,Kavya Nair,2026,Operations,Kochi,7,4,High,No,,0.92,Active,No
+E1484,Manoj Pillai,2026,Finance,Chennai,5,4,Medium,No,,0.61,Active,No
+E1485,Manoj Pillai,2026,IT,Hyderabad,0,3,Low,No,,0.33,Active,Yes
+E1486,Rohit Sharma,2026,HR,Hyderabad,1,5,Low,No,,0.58,Active,Yes
+E1487,Divya Krishnan,2026,Finance,Bangalore,8,1,High,Yes,Health Reasons,0.17,Left,No
+E1488,Priya Varma,2026,Sales,Bangalore,1,5,Low,No,,0.41,Active,Yes
+E1489,Divya Krishnan,2026,Finance,Chennai,4,2,Low,No,,0.66,Active,No
+E1490,Kavya Nair,2026,Sales,Bangalore,6,1,Medium,No,,0.76,Active,No
+E1491,Manoj Pillai,2026,Operations,Hyderabad,0,1,Medium,Yes,Better Compensation,0.15,Left,Yes
+E1492,Swathi Rao,2026,HR,Bangalore,2,1,High,No,,0.72,Active,No
+E1493,Amit Verma,2026,Sales,Kochi,9,2,Low,No,,0.69,Active,No
+E1494,Rahul Iyer,2026,IT,Kochi,10,5,Low,No,,0.94,Active,No
+E1495,Vikram Rao,2026,HR,Kochi,8,3,High,No,,0.24,Active,No
+E1496,Suresh Kumar,2026,Operations,Hyderabad,6,5,Medium,No,,0.89,Active,No
+E1497,Vikram Rao,2026,IT,Bangalore,10,3,Low,Yes,Higher Studies,0.13,Left,No
+E1498,Vikram Rao,2026,IT,Chennai,8,3,Low,No,,0.79,Active,No
+E1499,Rahul Iyer,2026,HR,Chennai,2,5,Medium,Yes,Health Reasons,0.34,Left,No
+E1500,Sneha Reddy,2026,Finance,Chennai,0,3,Medium,No,,0.49,Active,Yes
+E1501,Vikram Rao,2026,Sales,Bangalore,2,1,Medium,Yes,Career Growth,0.73,Left,No
+E1502,Manoj Pillai,2026,Operations,Bangalore,7,2,Medium,No,,0.35,Active,No
+E1503,Swathi Rao,2026,HR,Bangalore,8,3,Medium,No,,0.14,Active,No
+E1504,Rahul Iyer,2026,Finance,Bangalore,3,5,Low,No,,0.35,Active,No
+E1505,Meera Nair,2026,HR,Bangalore,1,5,Medium,No,,0.62,Active,Yes
+E1506,Ananya Pillai,2026,HR,Hyderabad,4,4,Medium,No,,0.5,Active,No
+E1507,Manoj Pillai,2026,Finance,Hyderabad,0,4,Medium,Yes,Health Reasons,0.48,Left,Yes
+E1508,Nikhil Jain,2026,Operations,Chennai,2,2,Low,Yes,Manager Issues,0.19,Left,No
+E1509,Arjun Das,2026,IT,Hyderabad,9,5,Medium,No,,0.73,Active,No
+E1510,Meera Nair,2026,HR,Kochi,1,2,Low,No,,0.38,Active,Yes
+E1511,Arjun Das,2026,Finance,Kochi,0,1,Low,No,,0.24,Active,Yes
+E1512,Rohit Sharma,2026,IT,Hyderabad,4,5,Low,Yes,Career Growth,0.26,Left,No
+E1513,Sneha Reddy,2026,Operations,Hyderabad,6,1,Medium,Yes,Higher Studies,0.39,Left,No
+E1514,Ananya Pillai,2026,HR,Bangalore,4,2,Medium,No,,0.68,Active,No
+E1515,Amit Verma,2026,IT,Bangalore,9,5,Medium,No,,0.35,Active,No
+E1516,Manoj Pillai,2026,Operations,Hyderabad,2,3,High,No,,0.15,Active,Yes
+E1517,Sneha Reddy,2026,Sales,Kochi,3,2,Low,Yes,Role Mismatch,0.52,Left,No
+E1518,Swathi Rao,2026,Sales,Kochi,2,4,High,No,,0.37,Active,No
+E1519,Vikram Rao,2026,IT,Hyderabad,1,1,Medium,No,,0.94,Active,Yes
+E1520,Divya Krishnan,2026,Operations,Hyderabad,4,4,Low,Yes,Health Reasons,0.49,Left,No
