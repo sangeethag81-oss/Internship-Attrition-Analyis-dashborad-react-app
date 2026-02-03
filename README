@@ -1,0 +1,23 @@
+# HR Attrition Analytics Dashboard
+
+This project is a dynamic HR analytics dashboard that updates insights instantly when a CSV dataset is uploaded.
+
+## Features
+- CSV upload
+- Executive Overview KPIs
+- Attrition trend analysis
+- Division-wise & location-wise attrition
+- Dataset preview table
+
+## Tech Stack
+- FastAPI (Python)
+- React.js
+- Recharts
+
+## How It Works
+1. Upload HR data in CSV format
+2. Dashboard recalculates KPIs and charts
+3. Insights update automatically
+
+## Author
+Sangeetha Gopalan
